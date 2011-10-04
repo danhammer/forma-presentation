@@ -1,0 +1,30 @@
+* Introduction
+
+My name is Dan Hammer, and I am first-year graduate student in the department of agricultural and resource economics at Cal. 
+
+
+ the time I am done with this ordeal, I will be schooled up to my ears.  Like my academic background, this project is an exercise in economics, statistics, remote sensing, and spatial analysis.  
+
+* how it is different from other monitoring tools
+
+We analyze the time-series, distilling a 
+
+* why this is important to near real time detection
+
+* why we are able to do this
+
+
+study of the impact of short-term economic variables on clearing activity requires data with rapid turnaround.  
+We are forced to accept a more limited scope in the type of clearing that we study, in order to examine the short-term impact of, say, interest rates on clearing activity.  We are only able to study relatively large-scale clearing - like the sort to make way for palm oil plantations - instead of the clearing that is associated with small-scale timber extraction.  Still, this sort of clearing activity accounts for a large proportion of deforestation in the tropics, and especially in Brazil and Indonesia.  
+
+* Applications
+
+These data can be used in a variety of capacities to increase our understanding of our interaction with our environment.  
+
+** dissemination
+
+** research
+
+Preliminary results. Study the impact of protected areas on clearing rates. 
+
+Interesting studies.  With more available data, we can intensify resarch in production theory.

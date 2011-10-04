@@ -1,0 +1,7 @@
+cd $dir_data
+cd $dir_data
+ls em*
+list in 1/20
+sum
+desc
+list in 1

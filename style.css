@@ -1,0 +1,100 @@
+.body {
+    font-family: "helvetica neue","helvetica","lucida grande",arial,sans-serif;
+    color: #fff;
+    background-color: #A4A4A4;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.4;
+    font-size: 18px;
+}
+
+body.fullScreen {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.forma-slide img {
+    position:absolute; 
+    z-index:-1;
+    top:75px; 
+    LEFT:100px; 
+    WIDTH:850px; 
+    HEIGHT:650px;
+}
+
+.forma-slide h1 {
+    position:absolute;
+    top:75px;
+    left:100px;
+    font-size:30px;
+}
+.forma-slide h2 {
+    position:absolute;
+    top:115px;
+    left:100px;
+    font-size:30px;
+}
+
+.light-on-dark h1,
+.light-on-dark h3 {
+    position: absolute;
+    color: #fff;
+    background-color: #000;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    display: inline-block;
+    padding: 0.1em 0.5em;
+    opacity: 0.7;
+    filter:alpha(opacity=70);
+    -moz-opacity:0.7;
+    -khtml-opacity: 0.7;
+    top: 3em;
+    left: 2em;
+}
+
+.light-on-dark h3 {
+    position: absolute;
+    clear: both;
+    top: 12em;
+    left: 7em;
+}
+
+.image-label h1 {
+    position: absolute;
+    font-size: 150%;
+    top: 40%;
+    left: 55%;
+}
+
+.ndvi img {
+    position: center;
+    clear: both;
+    height: 40%;
+    width: 30%;
+    z-index: -100;
+}
+
+.ts-graph img {
+    position: fixed;
+    top: -12em;
+    left: 13em;
+}
+
+.title-image img {
+    position: absolute;
+    clear: both;
+    top: 7em;
+    left: 13em;
+    z-index: -100;
+}
+
+.forma-image img {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
