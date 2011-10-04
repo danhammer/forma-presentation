@@ -20,10 +20,10 @@ body.fullScreen {
 .forma-slide img {
     position:absolute; 
     z-index:-1;
-    top:75px; 
-    LEFT:100px; 
-    WIDTH:850px; 
-    HEIGHT:650px;
+    top:150px; 
+    LEFT:250px; 
+    WIDTH:650px; 
+    HEIGHT:550px;
 }
 
 .forma-slide h1 {

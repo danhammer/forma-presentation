@@ -7,6 +7,9 @@
 ![ndvi](ndvi.png)
 ### MODIS imagery _&#8594;_ time-series analysis _&#8594;_ machine learning###
 
+!SLIDE incremental
+<iframe width="560" height="600" src="http://forma-data.appspot.com/" frameborder="0" align="center"></iframe>
+
 !SLIDE forma-slide
 .notes forma output for riau
 ## 2000 ##
@@ -418,10 +421,4 @@
 # July #
 ## 2011 ##
 ![slide-img](IDN_riau_201107.png)
-
-!SLIDE forma-slide
-.notes forma output for riau
-# August #
-## 2011 ##
-![slide-img](IDN_riau_201108.png)
 
