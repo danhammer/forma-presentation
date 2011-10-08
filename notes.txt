@@ -31,3 +31,8 @@ Interesting studies.  With more available data, we can intensify resarch in prod
 
 The generating process of deforestation can be characterized by three dimensions: space, time, and space-time.  A quick aside, here: there is some use in thinking about this problem in terms of vector spaces to provide a context or framework to the mechanics of the subsequent classification methods.  But that is for another day.  In two dimensional space, deforestation can be identified by comparing certain characteristics of the pixel to the value of that characteristic in other, like pixels.  Consider, for example, how _green_ the pixel appears.  If the pixel is less green than similar, nearby pixels, then we may classify it differently.  Then there is the time dimension: a comparison between the way it looks now versus the way it looked three months ago, and the track it took to get between the two values.  Then, finally, we look at the interaction between space and time; the way in which the indicators of some underlying generating process (like a tractor generates cleared land) had traveled through space and time.  Given the relatively arbitrary grid laid across the landscape by MODIS to define the raster, this process can provide insight into the appropriate interpretation of pixel-level characteristics. 
 
+
+!SLIDE incremental
+.notes forma-app
+
+<iframe width="560" height="600" src="http://forma-data.appspot.com/" style="position:absolute; top:75px; left:225px"></iframe>
