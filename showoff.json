@@ -1,1 +1,11 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{ 
+ "name": "forma", 
+ "sections": [
+              {"section":"intro"},
+              {"section":"idn-animation"}, 
+              {"section":"tech"},
+              {"section":"regional"},
+              {"section":"time-series"},
+              {"section":"country-graphs"}
+              ]
+ }
