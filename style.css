@@ -142,8 +142,15 @@ body.fullScreen {
 .country-graphs img {
     position: absolute;
     top: 120px;
-    left: 90px;
+    left: 85px;
     height: 530px;
     width: 825px;
+    z-index:-1;
 }
 
+.country-graphs h1 {
+    position: absolute;
+    top: 80px;
+    left: 166px;
+    font-size:30px;
+}

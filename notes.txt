@@ -35,4 +35,4 @@ The generating process of deforestation can be characterized by three dimensions
 !SLIDE incremental
 .notes forma-app
 
-<iframe width="560" height="600" src="http://forma-data.appspot.com/" style="position:absolute; top:75px; left:225px"></iframe>
+
