@@ -20,23 +20,22 @@ body.fullScreen {
 .forma-slide img {
     position:absolute; 
     z-index:-1;
-    top:50px; 
-    LEFT:168px; 
-    WIDTH:720px; 
-    HEIGHT:620px;
+    top:150px; 
+    LEFT:250px; 
+    WIDTH:650px; 
+    HEIGHT:550px;
 }
 
 .forma-slide h1 {
     position:absolute;
-    top:689px;
-    left:794px;
-    font-size:20px;
-    color:#808080;
+    top:75px;
+    left:100px;
+    font-size:30px;
 }
 .forma-slide h2 {
     position:absolute;
-    top:675px;
-    left:720px;
+    top:115px;
+    left:100px;
     font-size:30px;
 }
 
