@@ -162,3 +162,13 @@ body.fullScreen {
     left: 166px;
     font-size:30px;
 }
+
+.dissemination-graphic img {
+    position: absolute;
+    top: 60px;
+    left: 108px;
+    height: 625px;
+    width: 800px;
+    z-index:-1;
+    border:2px solid #606060;
+}
