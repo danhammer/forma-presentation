@@ -3,9 +3,9 @@
  "sections": [
               {"section":"intro"},
               {"section":"idn-animation"}, 
+              {"section":"time-series"},
               {"section":"tech"},
               {"section":"regional"},
-              {"section":"time-series"},
               {"section":"country-graphs"}
               ]
  }

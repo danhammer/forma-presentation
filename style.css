@@ -137,6 +137,14 @@ body.fullScreen {
     left: 90px;
     height: 550px;
     width: 825px;
+    z-index: -1;
+}
+
+.time-series h1 {
+    position: absolute;
+    top: 60px;
+    left: 160px;
+    font-size: 25px;
 }
 
 .country-graphs img {
