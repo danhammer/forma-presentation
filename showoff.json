@@ -5,7 +5,8 @@
               {"section":"idn-animation"}, 
               {"section":"time-series"},
               {"section":"tech"},
+              {"section":"country-graphs"},
               {"section":"regional"},
-              {"section":"country-graphs"}
+              {"section":"dissemination"}
               ]
  }

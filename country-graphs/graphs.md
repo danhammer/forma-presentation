@@ -52,8 +52,3 @@
 # Myanmar #
 ![Myanmar](Myanmar_3.png)
 
-!SLIDE 
-.notes forma-app
-
-<iframe src="http://forma-data.appspot.com/" style="position:absolute; top:75px; left:225px; width:560px; height:600px;"/>
-
