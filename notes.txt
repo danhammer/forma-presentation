@@ -36,4 +36,18 @@ We classify the dynamic transition from forest to non-forest.  This is how our s
 
 
 
+All raw data are freely available.  We just layer and analyze the data, using entirely open-source programming languages to identify clearing activity.  
 
+
+We characterize and then classify the transition from forest to non-forest.  We use the entire, articulated time-series to characterize deforestation as a dynamic process.  Each time-series show seasonality and a normal pattern of fires.  We look for extra-seasonal and semi-persistent breaks in the spectral attributes of the pixel.  The notion of persistence, though, requires a certain attention to variation through time and, for the fire process, through space.  That is, 
+
+Less weight to each observation; taken in context, looking for unexpected breaks or changes in the spectral characteristics. Different for each locale.  
+
+
+We characterize and classify the dynamic transition from forest to non-forest.  Deforestation is a process that moves through both space and time.  Instead of classifying attributes from each image individually, we examine the pattern as it emerges through both space and time.  As an example, consider the 
+
+The classification algorithms "learn" what the characteristic time-series associated with deforestation actually look like.  We can classify this particular pattern by sight: it has some seasonality, a big downward break, and then a distinct lack of seasonality.  
+
+Seasonal 
+
+cool part about this study, spatial data in general, is taht you can actually see the data -- and it makes sense, like the forma animation maps.  Its just the raw output, with a bit of color indexing.

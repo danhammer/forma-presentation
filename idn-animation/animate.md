@@ -1,3 +1,35 @@
+!SLIDE boundary-map
+.notes global boundaries
+
+<img src="world2.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
+
+!SLIDE boundary-map
+.notes indonesia
+
+<img src="world2a.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
+
+!SLIDE boundary-map
+.notes indonesia
+
+<img src="idn2.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
+
+!SLIDE boundary-map
+.notes indonesia
+
+<img src="idn2a.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
+
+!SLIDE boundary-map
+.notes indonesia
+
+<img src="sum2.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
+
+!SLIDE boundary-map
+.notes indonesia
+
+<img src="sum3a.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
+
+
+
 !SLIDE forma-slide
 .notes forma output for riau
 # January #
