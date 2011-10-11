@@ -1,34 +1,32 @@
 !SLIDE boundary-map
 .notes global boundaries
 
-<img src="world2.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
+<img src="world2.png" style="position:absolute; top:0px; left:-50px; width:1123px; height:750px"/>
 
 !SLIDE boundary-map
 .notes indonesia
 
-<img src="world2a.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
+<img src="world2a.png" style="position:absolute; top:0px; left:-50px; width:1123px; height:750px"/>
 
 !SLIDE boundary-map
 .notes indonesia
 
-<img src="idn2.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
+<img src="idn2.png" style="position:absolute; top:50px; left:-40px; width:1100px; height:700px"/>
 
 !SLIDE boundary-map
 .notes indonesia
 
-<img src="idn2a.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
+<img src="idn2a.png" style="position:absolute; top:50px; left:-40px; width:1100px; height:700px"/>
 
 !SLIDE boundary-map
 .notes indonesia
 
-<img src="sum2.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
+<img src="sum2.png" style="position:absolute; top:50px; left:-50px; width:1100px; height:650px"/>
 
 !SLIDE boundary-map
 .notes indonesia
 
-<img src="sum3a.png" style="position:absolute; top:-70px; left:-50px; width:1120px; height:900px"/>
-
-
+<img src="sum3a.png" style="position:absolute; top:50px; left:-50px; width:1100px; height:650px"/>
 
 !SLIDE forma-slide
 .notes forma output for riau
