@@ -4,6 +4,7 @@
               {"section":"intro"},
               {"section":"idn-animation"}, 
               {"section":"time-series"},
+              {"section":"validation"},
               {"section":"tech"},
               {"section":"country-graphs"},
               {"section":"regional"},
