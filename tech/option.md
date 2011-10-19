@@ -10,8 +10,8 @@ A.
 </h1>
 
 <img src="aws-logo.jpg" style="position:absolute; top:230px; left:180px; height:60px; width:140px;/>
-<img src="python-logo.png" style="position:absolute; top:220px; left:338px; height:90px; width:190px;/>
-<img src="scipy-logo.png" style="position:absolute; top:223px; left:545px; height:75px; width:80px;/>
+<img src="python-logo.png" style="position:absolute; top:220px; left:338px; height:90px; width:230px;/>
+<img src="scipy-logo.png" style="position:absolute; top:223px; left:580px; height:75px; width:80px;/>
 
 !SLIDE 
 .notes options A and B
@@ -23,9 +23,10 @@ Alternative processing platforms
 <h1 style="position:absolute; top:225px; left:100px; font-size:40px;">
 A. 
 </h1>
+
 <img src="aws-logo.jpg" style="position:absolute; top:230px; left:180px; height:60px; width:140px;/>
-<img src="python-logo.png" style="position:absolute; top:220px; left:338px; height:90px; width:190px;/>
-<img src="scipy-logo.png" style="position:absolute; top:223px; left:545px; height:75px; width:80px;/>
+<img src="python-logo.png" style="position:absolute; top:220px; left:338px; height:90px; width:230px;/>
+<img src="scipy-logo.png" style="position:absolute; top:223px; left:580px; height:75px; width:80px;/>
 
 <h1 style="position:absolute; top:425px; left:100px; font-size:40px;">
 B. 
@@ -46,10 +47,10 @@ Alternative processing platforms
 <h1 style="position:absolute; top:225px; left:100px; font-size:40px;">
 A. 
 </h1>
-<img src="aws-logo.jpg" style="position:absolute; top:230px; left:180px; height:60px; width:140px;/>
-<img src="python-logo.png" style="position:absolute; top:220px; left:338px; height:90px; width:190px;/>
-<img src="scipy-logo.png" style="position:absolute; top:223px; left:545px; height:75px; width:80px;/>
 
+<img src="aws-logo.jpg" style="position:absolute; top:230px; left:180px; height:60px; width:140px;/>
+<img src="python-logo.png" style="position:absolute; top:220px; left:338px; height:90px; width:230px;/>
+<img src="scipy-logo.png" style="position:absolute; top:223px; left:580px; height:75px; width:80px;/>
 <h1 style="position:absolute; top:425px; left:100px; font-size:40px;">
 B. 
 </h1>   

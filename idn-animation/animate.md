@@ -4,9 +4,16 @@
 <img src="world2.png" style="position:absolute; top:0px; left:-50px; width:1123px; height:750px"/>
 
 !SLIDE boundary-map
+.notes global boundaries
+
+<img src="world2.png" style="position:absolute; top:0px; left:-50px; width:1123px; height:750px"/>
+<img src="screen.png" style="position:absolute; top:285px; left:-100px; width:1500px; height:150px"/>
+
+!SLIDE boundary-map
 .notes indonesia
 
 <img src="world2a.png" style="position:absolute; top:0px; left:-50px; width:1123px; height:750px"/>
+<img src="screen.png" style="position:absolute; top:285px; left:-100px; width:1500px; height:150px"/>
 
 !SLIDE boundary-map
 .notes indonesia
@@ -27,6 +34,12 @@
 .notes indonesia
 
 <img src="sum3a.png" style="position:absolute; top:50px; left:-50px; width:1100px; height:650px"/>
+
+!SLIDE boundary-map
+.notes indonesia
+
+<img src="sum3a.png" style="position:absolute; top:50px; left:-50px; width:1100px; height:650px"/>
+<img src="square.png" style="position:absolute; top:320px; left:510px; width:60px; height:60px"/>
 
 !SLIDE forma-slide
 .notes forma output for riau
@@ -1458,4 +1471,23 @@
 <img src="brown.png" style="position:absolute; top:495px; left:35px; width:36px; height:19px;"/>
 <h2 style="position:absolute; top:491px; left:85px; color:#000000; font-size:15px">FCLH 2005</h2>
 
+!SLIDE forma-slide
+.notes forma output for riau
+# August #
+## 2011 ##
+![slide-img](IDN_riau_201108.png)
+<h2 style="position:absolute; top:530px; left:35px; color:#808080; font-size:20px">Signal Strength</h2>
+<img src="spectrum.png" style="position:absolute; top:570px; left:35px; width:35px; height:100px;"/>
+<h2 style="position:absolute; top:562px; left:85px; color:#000000; font-size:15px">50%-60%</h2>
+<h2 style="position:absolute; top:583px; left:85px; color:#000000; font-size:15px">60%-70%</h2>
+<h2 style="position:absolute; top:604px; left:85px; color:#000000; font-size:15px">70%-80%</h2>
+<h2 style="position:absolute; top:625px; left:85px; color:#000000; font-size:15px">80%-90%</h2>
+<h2 style="position:absolute; top:646px; left:85px; color:#000000; font-size:15px">90%-100%</h2>
 
+<h2 style="position:absolute; top:415px; left:35px; color:#808080; font-size:20px">Attributes</h2>
+
+<img src="green-small.png" style="position:absolute; top:455px; left:35px; width:36px; height:18px;"/>
+<h2 style="position:absolute; top:449px; left:85px; color:#000000; font-size:15px">VCF > 25</h2>
+
+<img src="brown.png" style="position:absolute; top:495px; left:35px; width:36px; height:19px;"/>
+<h2 style="position:absolute; top:491px; left:85px; color:#000000; font-size:15px">FCLH 2005</h2>
